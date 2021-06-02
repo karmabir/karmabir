@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="Github.gif" height = 200 width = 400>
 - 🔭 I’m currently working on OpenCV and Image Classification
 - 🌱 I’m currently learning PyTorch
 - 👯 I’m looking to collaborate on Open Source
