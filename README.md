@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <img src="Github.gif" height = 200 width = 400> <br>
-- 📗 A sophomore pursuing B-Tech in Computer Science Engineering from VIT Chennai <br>
-- ✒️ Working mostly in the domain of Data science, web development and cloud computing <br>
+- 📗 A Pre-final year student pursuing B-Tech in Computer Science Engineering from VIT Chennai <br>
+- ✒️ Working mostly in the domain of Data science and cloud computing <br>
 - 🔭 I’m currently working on Exploratory data analysis of FIFA-19 <br>
 - 🌱 I’m currently learning PyTorch <br>
 - 👯 I’m looking to collaborate on Open Source <br>
